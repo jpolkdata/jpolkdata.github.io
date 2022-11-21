@@ -9,7 +9,6 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme 
 title: [Jeff Polk, Data Engineer]
 description: [My personal GitHub page]
+theme: minima
